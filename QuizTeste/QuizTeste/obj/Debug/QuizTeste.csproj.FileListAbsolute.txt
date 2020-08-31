@@ -1,0 +1,10 @@
+T:\VS 2019\QuizTeste\QuizTeste\bin\Debug\QuizTeste.exe.config
+T:\VS 2019\QuizTeste\QuizTeste\bin\Debug\QuizTeste.exe
+T:\VS 2019\QuizTeste\QuizTeste\bin\Debug\QuizTeste.pdb
+T:\VS 2019\QuizTeste\QuizTeste\obj\Debug\QuizTeste.csprojAssemblyReference.cache
+T:\VS 2019\QuizTeste\QuizTeste\obj\Debug\QuizTeste.Form1.resources
+T:\VS 2019\QuizTeste\QuizTeste\obj\Debug\QuizTeste.Properties.Resources.resources
+T:\VS 2019\QuizTeste\QuizTeste\obj\Debug\QuizTeste.csproj.GenerateResource.cache
+T:\VS 2019\QuizTeste\QuizTeste\obj\Debug\QuizTeste.csproj.CoreCompileInputs.cache
+T:\VS 2019\QuizTeste\QuizTeste\obj\Debug\QuizTeste.exe
+T:\VS 2019\QuizTeste\QuizTeste\obj\Debug\QuizTeste.pdb
